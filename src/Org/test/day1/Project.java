@@ -28,7 +28,7 @@ public static void main(String[] args) throws AWTException {
     java.click();
     driver.quit();
         driver.quit();
-    
+    driver.quit();
 }
 }
 
