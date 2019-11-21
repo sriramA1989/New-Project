@@ -27,6 +27,8 @@ public static void main(String[] args) throws AWTException {
     WebElement java = driver.findElement(By.xpath("/html/body/div[3]/header/div/div/div[2]/nav/ul/li[3]/ul/li/div/ul/li[2]/div/div/div/div[1]/a/div/img"));
     java.click();
     driver.quit();
+        driver.quit();
+    
 }
 }
 
